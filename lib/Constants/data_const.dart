@@ -1,0 +1,1 @@
+const baseUrl = 'https://testapi.huffazulmutoon.com/api/';
